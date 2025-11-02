@@ -1,0 +1,208 @@
+[
+  {
+    "action": "create_example_backup",
+    "region": "PK",
+    "uid": "EXAMPLE123456",
+    "name": "TSun-Example",
+    "status": "created_example_local",
+    "timestamp": "2025-11-02 11:29:27"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx¹",
+    "uid": 4265514310,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://ymvupnwt:tddphfzzpt61@198.23.239.134:6540",
+    "timestamp": "2025-11-02 11:29:59"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx²",
+    "uid": 4265514627,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://ymvupnwt:tddphfzzpt61@45.38.107.97:6014",
+    "timestamp": "2025-11-02 11:30:07"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx³",
+    "uid": 4265514961,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://ymvupnwt:tddphfzzpt61@142.111.48.253:7030",
+    "timestamp": "2025-11-02 11:30:16"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx⁴",
+    "uid": 4265515395,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://dhdyirsd:o7568h1kn5rn@142.111.48.253:7030",
+    "timestamp": "2025-11-02 11:30:26"
+  },
+  {
+    "action": "create_example_backup",
+    "region": "PK",
+    "uid": "EXAMPLE123456",
+    "name": "TSun-Example",
+    "status": "created_example_local",
+    "timestamp": "2025-11-02 11:50:31"
+  },
+  {
+    "action": "create_example_backup",
+    "region": "PK",
+    "uid": "EXAMPLE123456",
+    "name": "TSun-Example",
+    "status": "created_example_local",
+    "timestamp": "2025-11-02 12:19:21"
+  },
+  {
+    "action": "create_example_backup",
+    "region": "PK",
+    "uid": "EXAMPLE123456",
+    "name": "TSun-Example",
+    "status": "created_example_local",
+    "timestamp": "2025-11-02 12:33:20"
+  },
+  {
+    "action": "create_example_backup",
+    "region": "PK",
+    "uid": "EXAMPLE123456",
+    "name": "TSun-Example",
+    "status": "created_example_local",
+    "timestamp": "2025-11-02 12:33:46"
+  },
+  {
+    "action": "create_example_backup",
+    "region": "PK",
+    "uid": "EXAMPLE123456",
+    "name": "TSun-Example",
+    "status": "created_example_local",
+    "timestamp": "2025-11-02 12:42:00"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx¹",
+    "uid": 4265689750,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://ymvupnwt:tddphfzzpt61@198.23.239.134:6540",
+    "timestamp": "2025-11-02 12:42:30"
+  },
+  {
+    "action": "save_normal_account",
+    "region": "PK",
+    "uid": 4265689750,
+    "name": "ꜱꫝᴇᴇdx¹",
+    "status": "saved_local",
+    "timestamp": "2025-11-02 12:42:37"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx²",
+    "uid": 4265690404,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://ymvupnwt:tddphfzzpt61@45.38.107.97:6014",
+    "timestamp": "2025-11-02 12:42:46"
+  },
+  {
+    "action": "save_normal_account",
+    "region": "PK",
+    "uid": 4265690404,
+    "name": "ꜱꫝᴇᴇdx²",
+    "status": "saved_local",
+    "timestamp": "2025-11-02 12:42:53"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx³",
+    "uid": 4265690961,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://ymvupnwt:tddphfzzpt61@142.111.48.253:7030",
+    "timestamp": "2025-11-02 12:43:02"
+  },
+  {
+    "action": "save_normal_account",
+    "region": "PK",
+    "uid": 4265690961,
+    "name": "ꜱꫝᴇᴇdx³",
+    "status": "saved_local",
+    "timestamp": "2025-11-02 12:43:10"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx⁴",
+    "uid": 4265691659,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://dhdyirsd:o7568h1kn5rn@142.111.48.253:7030",
+    "timestamp": "2025-11-02 12:43:19"
+  },
+  {
+    "action": "save_normal_account",
+    "region": "PK",
+    "uid": 4265691659,
+    "name": "ꜱꫝᴇᴇdx⁴",
+    "status": "saved_local",
+    "timestamp": "2025-11-02 12:43:27"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx⁵",
+    "uid": 4265692424,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://dhdyirsd:o7568h1kn5rn@107.172.163.27:6543",
+    "timestamp": "2025-11-02 12:43:37"
+  },
+  {
+    "action": "save_normal_account",
+    "region": "PK",
+    "uid": 4265692424,
+    "name": "ꜱꫝᴇᴇdx⁵",
+    "status": "saved_local",
+    "timestamp": "2025-11-02 12:43:46"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx⁶",
+    "uid": 4265693101,
+    "status": "success",
+    "attempt": 1,
+    "proxy": "http://ymvupnwt:tddphfzzpt61@216.10.27.159:6837",
+    "timestamp": "2025-11-02 12:43:55"
+  },
+  {
+    "action": "save_normal_account",
+    "region": "PK",
+    "uid": 4265693101,
+    "name": "ꜱꫝᴇᴇdx⁶",
+    "status": "saved_local",
+    "timestamp": "2025-11-02 12:44:02"
+  },
+  {
+    "action": "create_rare_acc",
+    "region": "PK",
+    "name": "ꜱꫝᴇᴇdx⁷",
+    "status": "error",
+    "attempt": 1,
+    "proxy": "http://qjecancv:uimake5qhzpk@142.147.128.93:6593",
+    "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))",
+    "timestamp": "2025-11-02 13:09:19"
+  }
+]
